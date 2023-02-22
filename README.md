@@ -2,7 +2,7 @@
 
 A project I created for my Introduction to Web Programming lab. 
 
-Mainly I used HTML and CSS. Php I only used it to import the buttons on each page so I won't have hundreds of lines of code.
+Mainly I used HTML and CSS. Php I only used it to import the buttons, the header and the footer on each page so I won't have hundreds of lines of code.
 And JavaScript I only did the title with it. If you hover it with the mouse pointer it will translate the title into Romanian. 
 
 It's a site for learning the basics of the Chinese Language, and also Register for Chinese Courses.
